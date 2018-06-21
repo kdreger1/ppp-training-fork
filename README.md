@@ -1,5 +1,16 @@
-# PPP
-## About
+# PPP Training Fork
+## About the "Training Fork"
+This fork of PPP has been made for the special purpose of training in Git workflows.
+
+## Training Exercises
+- Issue 1 - Setting up for collaborating on an existing GitHub repository.
+- Issue 2 - Making some changes to a codebase.
+- Issue 3 - Syncing your code with changes that someone else has made.
+- Issue 4 - Getting changes from your personal repository into the main / another repository.
+
+---
+## Actual documentation
+## About PPP
 PPP is a Python3 tool that converts ODK XlsForm specification .xlsx Excel files to more human-readable, printable formats, commonly called "paper questionnaires".
 
 Officially, PPP stands for "Pretty PDF Printer", but other formats are supported (see: the `--format` option described in the "CLI How-to").
